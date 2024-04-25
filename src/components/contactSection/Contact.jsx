@@ -21,7 +21,7 @@ const Contact = () => {
   const clickHandler = async (e, req, res) => {
     e.preventDefault();
     console.log(formData);
-    let result = await fetch("http://localhost:4000/register", {
+    let result = await fetch("https://portfolio-qg3k.onrender.com/register", {
       method: "post",
       body: JSON.stringify({ name, email, message }),
       headers: {
