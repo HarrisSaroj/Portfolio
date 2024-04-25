@@ -33,7 +33,7 @@ const Contact = () => {
     if (!name || !email || !message) {
       toast.error("All fields are reqired");
     } else {
-      toast.success("We will get Back to you soon");
+      toast.success("Thankyou for your Time");
       setFormData({
         name: "",
         email: "",
