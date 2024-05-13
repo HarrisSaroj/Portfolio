@@ -39,7 +39,7 @@ const About = () => {
                 <div className='flex flex-col lg:p-5'>
                     <div className=''>
                         <div className='font-proza'>
-                            Nisi fugiat duis ad voluptate ut Lorem esse. Do elit ea deserunt ullamco mollit ut ullamco
+                            My name is Harendra Saroj.Nisi fugiat duis ad voluptate ut Lorem esse. Do elit ea deserunt ullamco mollit ut ullamco
                             aute dolor in sunt laboris. Fugiat enim deserunt eiusmod officia consequat ut elit laboris. 
                             Elit officia nostrud esse velit sunt tempor minim do mollit sunt labore deserunt enim sint. 
                             Sint quis cupidatat elit fugiat adipisicing laborum nostrud ex. Irure consectetur aliqua 
