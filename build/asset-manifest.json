@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b2ad737.css",
+    "main.js": "/static/js/main.1e09e8ea.js",
+    "static/js/453.5aee1704.chunk.js": "/static/js/453.5aee1704.chunk.js",
+    "static/media/WeatherSS.png": "/static/media/WeatherSS.666fa117273bef36a60b.png",
+    "static/media/PasswordGeneratorSS.png": "/static/media/PasswordGeneratorSS.7d42c37451cb2e7dbc58.png",
+    "static/media/UserImage1.jpeg": "/static/media/UserImage1.46dc69b409653a633a6c.jpeg",
+    "static/media/Devtective_SS.png": "/static/media/Devtective_SS.458f328b9ef51d2ddeb2.png",
+    "static/media/7.jpg": "/static/media/7.3ba6b697536aacada61a.jpg",
+    "static/media/HeroSectionImage.png": "/static/media/HeroSectionImage.6930fb86185edbadff56.png",
+    "static/media/CSS.png": "/static/media/CSS.1a57e67ac1fd2ea84d64.png",
+    "static/media/React.png": "/static/media/React.53dc6bc56f1c8aa7f441.png",
+    "static/media/NodeJs.svg": "/static/media/NodeJs.433e55e629432606712bdd47c6e3a61b.svg",
+    "static/media/MongoDB.svg": "/static/media/MongoDB.55003af2c629675b0af175687c6970fc.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.fa3ecb79b97703729d7a0af06b667c22.svg",
+    "index.html": "/index.html",
+    "main.6b2ad737.css.map": "/static/css/main.6b2ad737.css.map",
+    "main.1e09e8ea.js.map": "/static/js/main.1e09e8ea.js.map",
+    "453.5aee1704.chunk.js.map": "/static/js/453.5aee1704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2ad737.css",
+    "static/js/main.1e09e8ea.js"
+  ]
+}

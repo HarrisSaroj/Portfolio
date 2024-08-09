@@ -1,0 +1,29 @@
+.blob-image{
+    transform: translate(5%, -5%);
+    animation: blobAnimation 3s linear infinite;
+}
+@keyframes blobAnimation{
+    50%{
+        top:15%;
+        left:9%;
+    }
+}
+/* .blob-image1{
+    transform: translate(5%, -5%);
+    animation: blobAnimation1 3s linear infinite;
+}
+@keyframes blobAnimation1{
+    50%{
+        top:30%;
+        left:20%;
+    }
+} */
+
+
+.skills-logo{
+    width: 80px;
+    transition: all 0.5s;
+}
+.skills-logo:hover{
+    transform: scale(1.2);
+}
