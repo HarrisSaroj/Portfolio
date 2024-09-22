@@ -48,7 +48,7 @@ const Hero = () => {
                 </motion.div>
             </motion.div>
             <motion.div variants={textVariant} className='mt-16 text-center text-xl'>
-                <ButtonNew name='Projects'/>
+                <ButtonNew name='Download CV'/>
             </motion.div>
         </motion.div>
         <div className=''>
